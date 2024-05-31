@@ -1,0 +1,3 @@
+ModelConstants = {
+    "IMAGE" : 'image',
+}
